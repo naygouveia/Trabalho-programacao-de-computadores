@@ -2,7 +2,7 @@ Este código é um ótimo exemplo de como a lógica de programação pode resolv
 
 Aqui está uma análise humanizada do que esse "cérebro eletrônico" está fazendo:
 
-🛠️ O que o sistema faz?
+ O que o sistema faz?
 Imagine que você é o recepcionista da academia. Este programa é a sua planilha inteligente. Ele não apenas conta quem entra e sai, mas também cuida do bolso (faturamento) e da organização do espaço.
 
 1. Controle de Fluxo (Entradas e Saídas)
@@ -20,7 +20,7 @@ Uma das partes mais interessantes é o Relatório de Ocupação. Em vez de apena
 3. Gestão Financeira
 O sistema é honesto e trabalhador. Cada vez que alguém faz o check-in, ele assume que uma diária de R$ 25,00 foi paga e guarda esse valor em um "cofre virtual" (faturamentoTotal). No fim do dia, o gestor consegue ver exatamente quanto dinheiro entrou.
 
-🧠 A Lógica por trás dos panos
+ A Lógica por trás dos panos
 O código utiliza estruturas fundamentais da programação de um jeito muito organizado:
 
 O Ciclo de Vida (do/while): O programa fica "vivo" e repetindo o menu até que você decida encerrar (digitando 0).
